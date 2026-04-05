@@ -47,7 +47,7 @@ A machine learning web application that predicts the creditworthiness of loan ap
 ```
 credit-risk/
 │
-├── app.py                        # Streamlit app
+├── app2.py                        # Streamlit app
 ├── extra_trees_credit_model.pkl  # Trained model
 ├── analysis_model.ipynb          # Training & EDA notebook
 ├── Sex_encoder.pkl               # Label encoders (legacy)
